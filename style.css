@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(144, 215, 248);
+}
+
+.container{
+  width: 50%;
+  margin: auto;
+}
+.container h1{
+  text-align: center;
+}
+.grid{
+  padding: 10px;
+}
